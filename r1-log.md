@@ -15,3 +15,6 @@ Developed core features of the project including Subtitle Automation, Audio Edit
 
 ### R1D4
 Added a fully designed authentication UI (Sign In / Sign Up) with dedicated layouts for a clean, user-friendly experience. Included placeholders for social OAuth (Google, Facebook, etc.) to prepare for future integrations. Worked on client-side connections and dynamic imports for heavy libraries to improve performance and reduce bundle size.
+
+### R1D5
+Started building the backend API using Node.js and Express. Set up the project structure, environment configuration, and initial endpoints. Defined routes and controller patterns for handling tool operations (upload, convert, export). Prepared the API for future integrations with authentication and media processing.

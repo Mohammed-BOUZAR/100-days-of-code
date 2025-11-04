@@ -50,3 +50,17 @@ Designing a smooth authentication experience makes everything come together visu
 Excited to integrate OAuth next and make sign-ins lightning fast.  
 
 **Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+
+
+### Day 4: November 4, 2025
+
+**Today's Progress:**  
+Started building the **backend API** using **Node.js** and Express.  
+Set up the project structure, environment configuration, and initial endpoints.  
+Defined routes and controller patterns for handling tool operations. 
+Prepared the API for future integrations with authentication and media processing.
+
+**Thoughts:**  
+Feels great to switch gears from UI to backend logic! 
+
+**link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
