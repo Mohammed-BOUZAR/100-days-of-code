@@ -6,7 +6,7 @@
 
 **Thoughts:** Excited to kick off this new project! Next.js and Tailwind CSS are powerful tools, and I'm eager to see how they can enhance my development workflow.
 
-**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
 ### Day 1: November 1, 2025
 
@@ -17,7 +17,7 @@ Integrated responsive design using TailwindCSS and configured the color palette.
 **Thoughts:**  
 It feels great to see the app starting to take shape visually. Next.js and Tailwind make structuring and styling really efficient. Tomorrow I'll start working on the Home Page hero section and feature grid.
 
-**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
 ### Day 2: November 2, 2025
 
@@ -34,7 +34,7 @@ Project is now feature-complete for its MVP phase.
 **Thoughts:**  
 The foundation is solid — moving from prototype to polished tools now feels within reach. Excited to refine, test, and optimize performance next!
 
-**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
 
 ### Day 3: November 3, 2025
@@ -49,7 +49,7 @@ It's starting to look and feel like a real app now!
 Designing a smooth authentication experience makes everything come together visually and functionally.  
 Excited to integrate OAuth next and make sign-ins lightning fast.  
 
-**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
 
 ### Day 4: November 4, 2025
@@ -63,4 +63,20 @@ Prepared the API for future integrations with authentication and media processin
 **Thoughts:**  
 Feels great to switch gears from UI to backend logic! 
 
-**link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+**link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 5: November 5, 2025
+
+**Today's Progress:**  
+- Integrated **Node.js API** with a **Python microservice** using **OpenAI Whisper** for AI-powered transcription.  
+- Connected MediaKit’s **frontend and backend**, enabling real **subtitle generation** directly from uploaded media.  
+- Improved API flow for audio upload, processing, and returning transcription results to the client.  
+
+**Thoughts:**  
+Super excited today! 🚀 Seeing AI and full-stack integration come together feels incredibly rewarding.  
+This marks a huge step — MediaKit is officially creating real, usable subtitles with the power of AI.  
+Onward to refining accuracy and expanding to more tools!  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+

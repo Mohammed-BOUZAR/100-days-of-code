@@ -18,3 +18,8 @@ Added a fully designed authentication UI (Sign In / Sign Up) with dedicated layo
 
 ### R1D5
 Started building the backend API using Node.js and Express. Set up the project structure, environment configuration, and initial endpoints. Defined routes and controller patterns for handling tool operations (upload, convert, export). Prepared the API for future integrations with authentication and media processing.
+
+### R1D6
+- Integrated **Node.js API** with a **Python microservice** using **OpenAI Whisper** for AI-powered transcription.  
+- Connected MediaKit’s **frontend and backend**, enabling real **subtitle generation** directly from uploaded media.
+- Improved API flow for audio upload, processing, and returning transcription results to the client.
