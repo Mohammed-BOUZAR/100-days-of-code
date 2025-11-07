@@ -80,3 +80,18 @@ Onward to refining accuracy and expanding to more tools!
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
+
+### Day 6: November 6, 2025
+
+**Today's Progress:**  
+- Implemented **background removal** on the **server side** instead of only frontend.  
+- Integrated **Python** backend tools — **Pillow** and **rembg** — to handle accurate background segmentation and transparent image output.  
+- Linked this new Python service with the **Node.js API**, enabling the frontend to send images and receive processed results seamlessly.  
+- Improved performance and stability by offloading heavy image processing from the browser to the server.
+
+**Thoughts:**  
+Really satisfying progress today! 🎨  
+Seeing the background removal feature running entirely on the backend feels like a big step forward for MediaKit.  
+Server-side processing opens the door for faster, more reliable, and scalable tools. Excited to keep refining it!  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

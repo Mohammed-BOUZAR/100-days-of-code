@@ -23,3 +23,7 @@ Started building the backend API using Node.js and Express. Set up the project s
 - Integrated **Node.js API** with a **Python microservice** using **OpenAI Whisper** for AI-powered transcription.  
 - Connected MediaKit’s **frontend and backend**, enabling real **subtitle generation** directly from uploaded media.
 - Improved API flow for audio upload, processing, and returning transcription results to the client.
+
+### R1D7
+- Developed the **background removal** feature using a **Node.js backend** integrated with a **Python microservice** leveraging **TensorFlow.js** and **BodyPix** for image segmentation.  
+- Enabled users to upload images, process them server-side to remove backgrounds, and return transparent PNGs.
