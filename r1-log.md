@@ -27,3 +27,9 @@ Started building the backend API using Node.js and Express. Set up the project s
 ### R1D7
 - Developed the **background removal** feature using a **Node.js backend** integrated with a **Python microservice** leveraging **TensorFlow.js** and **BodyPix** for image segmentation.  
 - Enabled users to upload images, process them server-side to remove backgrounds, and return transparent PNGs.
+
+### R1D8
+- Refactored backend logic for **background removal** to enhance performance and readability.
+- Integrated **Sequelize ORM** and created a **User model**.
+- Implemented **authentication system** (sign-up, sign-in).
+  

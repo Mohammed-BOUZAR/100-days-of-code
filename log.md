@@ -81,7 +81,7 @@ Onward to refining accuracy and expanding to more tools!
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
 
 
-### Day 6: November 6, 2025
+### Day 6: November 7, 2025
 
 **Today's Progress:**  
 - Implemented **background removal** on the **server side** instead of only frontend.  
@@ -93,5 +93,15 @@ Onward to refining accuracy and expanding to more tools!
 Really satisfying progress today! 🎨  
 Seeing the background removal feature running entirely on the backend feels like a big step forward for MediaKit.  
 Server-side processing opens the door for faster, more reliable, and scalable tools. Excited to keep refining it!  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 7: November 8, 2025  
+
+**Today's Progress:**  
+- Refactored backend logic for **background removal** to enhance performance and readability.  
+- Integrated **Sequelize ORM** and created a **User model**.  
+- Implemented **authentication system** (sign-up, sign-in).  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
