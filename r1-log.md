@@ -33,3 +33,8 @@ Started building the backend API using Node.js and Express. Set up the project s
 - Integrated **Sequelize ORM** and created a **User model**.
 - Implemented **authentication system** (sign-up, sign-in).
   
+
+### R1D9
+- No coding today - I have a fever 🤒 so I'm taking a break.
+- Sometimes the best way to move forward is to stop and rest.
+- Tomorrow I'll be back to the challenge stronger than ever! 🚀 💪  
