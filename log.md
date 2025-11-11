@@ -70,7 +70,7 @@ Feels great to switch gears from UI to backend logic!
 
 **Today's Progress:**  
 - Integrated **Node.js API** with a **Python microservice** using **OpenAI Whisper** for AI-powered transcription.  
-- Connected MediaKit’s **frontend and backend**, enabling real **subtitle generation** directly from uploaded media.  
+- Connected MediaKit's **frontend and backend**, enabling real **subtitle generation** directly from uploaded media.  
 - Improved API flow for audio upload, processing, and returning transcription results to the client.  
 
 **Thoughts:**  
@@ -129,5 +129,21 @@ Tomorrow I'll be back to the challenge stronger than ever! 🚀 💪
 
 **Thoughts:**  
 Refactoring helped streamline the architecture and make the app more flexible. Clean code design not only improves scalability but also sharpens problem-solving skills — you learn to think structurally, not just syntactically.  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 10: November 11, 2025
+
+**Today's Progress:**  
+- Completed authentication system using **NextAuth**  
+- Added **Google, Facebook, X (Twitter)**, and **Credentials** providers  
+- Implemented middleware for route and session protection  
+- Refactored code for better scalability and structure
+
+**Thoughts:**  
+Authentication is a key building block for secure apps.  
+It forced me to think about user flow, security, and session handling — a great exercise in problem-solving and backend logic.  
+Super happy with today's progress!  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

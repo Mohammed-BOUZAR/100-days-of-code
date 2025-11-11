@@ -44,3 +44,9 @@ Started building the backend API using Node.js and Express. Set up the project s
 - After finishing the main tools for MediaKit, I focused on improving the foundation
 - I learned more about Next.js, Prisma, and NextAuth, and refactored my Node.js backend into a unified Next.js API.
 - Clean code = clearer mind = better problem solving 💡💪
+
+### R1D11
+- Implemented **OAuth authentication** using **NextAuth.js** with providers like Google, Facebook, and X (Twitter).  
+- Enhanced user experience with smooth sign-in/sign-up flows and session management.
+- It forced me to think about user flow, security, and session handling — a great exercise in problem-solving and backend logic.  
+- Super happy with today's progress!
