@@ -9,3 +9,6 @@ Started a new project using Next.js and Tailwind CSS. Set up the initial project
 
 ### R1D2 
 Today, I created the home page for the Quiz Generator project using Next.js + TailwindCSS + daisyUI.
+
+### R1D3 
+Built several reusable UI components for the Quiz Generator project.

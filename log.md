@@ -213,3 +213,18 @@ Built the Home page for the Quiz Generator project using Next.js + Tailwind + da
 
 **Thoughts:**  
 A solid visual start — now I can connect the "Create quiz" flow to the backend.
+
+**Link to work:** *(coming soon)*
+
+
+### Day 16: November 18, 2025
+
+**Today's Progress:**  
+- Set up several **reusable UI components** for the Quiz Generator project.  
+- Started building the **Create Quiz** page to support structured quiz creation.  
+- Implemented the **Quiz Form** component with **Zod** for strong validation.  
+
+**Thoughts:**  
+💭 Feeling excited about the progress! 🚀  
+
+**Link to work:** *coming soon*
