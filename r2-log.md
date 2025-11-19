@@ -12,3 +12,5 @@ Today, I created the home page for the Quiz Generator project using Next.js + Ta
 
 ### R1D3 
 Built several reusable UI components for the Quiz Generator project.
+
+### R1D4

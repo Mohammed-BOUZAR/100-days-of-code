@@ -228,3 +228,18 @@ A solid visual start — now I can connect the "Create quiz" flow to the backend
 💭 Feeling excited about the progress! 🚀  
 
 **Link to work:** *coming soon*
+
+
+### Day 17: November 19, 2026
+
+**Today's Progress:**  
+- Finished writing all necessary **data models** for the Quiz Generator project.  
+- Successfully **dockerized the full application** to ensure consistent environments and smooth deployments.  
+- Created a **CI/CD pipeline** with automated builds and deployments using GitHub Actions.  
+
+**Thoughts:**  
+Today felt like a huge step forward. Getting Docker + CI/CD in place makes the whole development flow feel clean, reliable, and professional.  
+Seeing the project automatically deploy to my domain was incredibly satisfying.  
+Super excited for what's coming next! 🚀
+
+**Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
