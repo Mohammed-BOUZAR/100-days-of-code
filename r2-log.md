@@ -4,16 +4,20 @@ The log of my #100DaysOfCode challenge. Started on [November 16, Thursday, 2025]
 
 ## Log
 
-### R1D1 
+### R2D14 
 Started a new project using Next.js and Tailwind CSS. Set up the initial project structure and created a simple homepage.
 
-### R1D2 
+### R2D15 
 Today, I created the home page for the Quiz Generator project using Next.js + TailwindCSS + daisyUI.
 
-### R1D3 
+### R2D16 
 Built several reusable UI components for the Quiz Generator project.
 
-### R1D4
+### R2D17 
 Today's work was about infrastructure and making the project production-ready. 💪🔥
 
-### R1D5
+### R2D18
+Today was a cleanup day — and it felt great. The codebase is now much more organized, consistent, and future-proof. 🚀
+
+### R2D19
+Today I focused on the backend of the QuizGenerator project. I built the API endpoints for creating and managing quizzes.

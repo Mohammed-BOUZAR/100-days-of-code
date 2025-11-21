@@ -257,3 +257,15 @@ Today was a cleanup day — and it felt great. The codebase is now much more org
 These refactoring sessions always make everything feel lighter and more scalable. 🚀
 
 **Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 19: November 21, 2026
+
+**Today's Progress:**
+- Built the Quiz API: users can now create quizzes (with questions & answers).
+- Built the frontend component to run a simulated preview of their quiz before publishing.
+
+**Thoughts:**  
+Excited to see the core functionality coming together!
+
+**Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
