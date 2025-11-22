@@ -269,3 +269,17 @@ These refactoring sessions always make everything feel lighter and more scalable
 Excited to see the core functionality coming together!
 
 **Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 20: November 22, 2026
+
+**Today's Progress:**
+- Developed the frontend components for taking quizzes: QuizPlayer, QuestionCard, ResultModal, and ShareLink.
+- Connected the frontend to the backend so users can create, fetch, submit, and score quizzes.
+- Enabled users to see their scores and a summary immediately after completing a quiz.
+- Allowed quiz creators to copy/share a public quiz link to invite others.
+  
+**Thoughts:**  
+It's great to have the full loop working — create, share, take, and score. Next up: analytics, leaderboards, and improving share UX.
+
+**Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)

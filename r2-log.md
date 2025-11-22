@@ -21,3 +21,7 @@ Today was a cleanup day — and it felt great. The codebase is now much more org
 
 ### R2D19
 Today I focused on the backend of the QuizGenerator project. I built the API endpoints for creating and managing quizzes.
+
+
+### R2D20
+It's great to have the full loop working - creation, sharing, participation, and scoring.
