@@ -283,3 +283,16 @@ Excited to see the core functionality coming together!
 It's great to have the full loop working — create, share, take, and score. Next up: analytics, leaderboards, and improving share UX.
 
 **Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 21: November 24, 2025
+
+**Today's Progress:**
+- Implemented full authentication using **NextAuth** with **Prisma** as the database adapter.
+- Added multi-provider OAuth support: **Google**, **Facebook**, and **X (Twitter)**.
+- Synced user sessions across frontend and backend for a smooth experience.
+
+**Thoughts:**
+Authentication is now rock-solid! It feels great seeing the app move closer to production-level quality. The login flow is smooth, and OAuth integration makes signup effortless. Excited to build features that rely on user identity next.
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)

@@ -25,3 +25,6 @@ Today I focused on the backend of the QuizGenerator project. I built the API end
 
 ### R2D20
 It's great to have the full loop working - creation, sharing, participation, and scoring.
+
+### R2D21
+Today, I implemented user authentication using NextAuth and Prisma. Users can now sign up and sign in securely.
