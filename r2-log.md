@@ -34,3 +34,6 @@ Today, I worked on the quiz-taking interface. Users can now take quizzes and see
 
 ### R2D23
 I love how the platform is becoming smoother and more powerful day by day. Each improvement makes it feel more like a real, production-ready tool!
+
+### R2D24
+I felt it wasn't a big progress but it was still important. These kinds of improvements make everything feel more solid.

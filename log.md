@@ -201,7 +201,7 @@ Prepared the foundation for future features like AI-powered question generation 
 
 **Thoughts:**  
 It feels great to begin a fresh project! Starting clean always brings motivation and clarity.  
-I’m excited about building something useful, fast, and fun — and the tech stack already feels smooth. Can't wait to add the first real features tomorrow.
+I'm excited about building something useful, fast, and fun — and the tech stack already feels smooth. Can't wait to add the first real features tomorrow.
 
 **Link to work:** *(coming soon)*
 
@@ -323,5 +323,19 @@ Feels great seeing the app becoming more user-centric. Restricting access based 
   
 **Thoughts:**
 I love how the platform is becoming smoother and more powerful day by day. Each improvement makes it feel more like a real, production-ready tool!
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 24 — November 28, 2025
+
+**Today's Progress:**
+- Spent some time tightening up security across the project. Nothing flashy, but definitely important.
+- Added a new way to view quizzes - you can switch between a grid layout or a clean list view.
+- Modified the OAuth Sign-in flow and customized some of the returned attributes.
+- Created a Profile page where users can manage their personal info.
+
+**Thoughts:**
+I felt it wasn't a big progress but it was still important. These kinds of improvements make everything feel more solid.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
