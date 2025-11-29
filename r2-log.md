@@ -37,3 +37,6 @@ I love how the platform is becoming smoother and more powerful day by day. Each 
 
 ### R2D24
 I felt it wasn't a big progress but it was still important. These kinds of improvements make everything feel more solid.
+
+### R2D25
+The privacy system looks like it'll be tricky, but I'm actually looking forward to building it out.

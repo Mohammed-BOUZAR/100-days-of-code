@@ -339,3 +339,18 @@ I love how the platform is becoming smoother and more powerful day by day. Each 
 I felt it wasn't a big progress but it was still important. These kinds of improvements make everything feel more solid.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 25 — November 29, 2025
+
+**Today's Progress:**
+- Added image upload & update inside the Profile page.
+- Synced profile updates directly into the active session.
+- Gave the Profile UI a little cleanup.
+- Cleaned up the Profile UI a little bit.
+- Start working for quiz visibility: public vs private. (Private quizzes will eventually support giving access only to specific users)
+
+**Thoughts:**
+The privacy system looks like it'll be tricky, but I'm actually looking forward to building it out.
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
