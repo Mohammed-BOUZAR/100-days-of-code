@@ -348,7 +348,7 @@ I felt it wasn't a big progress but it was still important. These kinds of impro
 - Synced profile updates directly into the active session.
 - Gave the Profile UI a little cleanup.
 - Cleaned up the Profile UI a little bit.
-- Start working for quiz visibility: public vs private. (Private quizzes will eventually support giving access only to specific users)
+- Started working on quiz visibility: public vs private. (Private quizzes will eventually support giving access only to specific users)
 
 **Thoughts:**
 The privacy system looks like it'll be tricky, but I'm actually looking forward to building it out.
