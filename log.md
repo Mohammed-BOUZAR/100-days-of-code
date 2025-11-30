@@ -354,3 +354,17 @@ I felt it wasn't a big progress but it was still important. These kinds of impro
 The privacy system looks like it'll be tricky, but I'm actually looking forward to building it out.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 26 — November 29, 2025
+
+**Today's Progress:**
+- Added the option to set quiz visibility as public or private next is published.  
+- Private quizzes now work exactly how I wanted: only specific users are allowed to access them.
+
+**Thoughts:**
+Honestly, this feature took a bit more mental energy than I expected.  
+But it's done, and it works, and it feels good to see it all come together.
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
