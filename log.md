@@ -368,3 +368,13 @@ But it's done, and it works, and it feels good to see it all come together.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
 
+
+### Day 27 — December 2, 2025
+
+**Today's Progress:**
+- Started integrating AI into the Quiz Generator.
+- Prepared the necessary foundation to automatically generate questions instead of writing them manually.
+- Prepared the API so that it can communicate with the AI model and provide good quiz content.
+
+**Thoughts:**
+The project seems to have suddenly opened up. I had been wanting to introduce AI into this project for a while, and starting the integration today has given the whole application more life. It's still in its early days, and there are still some shortcomings, but it's exciting to see where it will go.

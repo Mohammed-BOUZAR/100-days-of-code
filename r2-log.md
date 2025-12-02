@@ -40,3 +40,9 @@ I felt it wasn't a big progress but it was still important. These kinds of impro
 
 ### R2D25
 The privacy system looks like it'll be tricky, but I'm actually looking forward to building it out.
+
+### R2D26
+Spent the day refining the quiz creation flow. Added more options for question types and improved the user experience.
+
+### R2D27
+The project seems to have suddenly opened up. I had been wanting to introduce AI into this project for a while, and starting the integration today has given the whole application more life. It's still in its early days, and there are still some shortcomings, but it's exciting to see where it will go.
