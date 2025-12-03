@@ -46,3 +46,6 @@ Spent the day refining the quiz creation flow. Added more options for question t
 
 ### R2D27
 The project seems to have suddenly opened up. I had been wanting to introduce AI into this project for a while, and starting the integration today has given the whole application more life. It's still in its early days, and there are still some shortcomings, but it's exciting to see where it will go.
+
+### R2D28
+Finished integrating AI-powered question generation. Users can now generate quiz questions based on topics they provide.

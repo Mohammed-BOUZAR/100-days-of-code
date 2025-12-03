@@ -378,3 +378,16 @@ But it's done, and it works, and it feels good to see it all come together.
 
 **Thoughts:**
 The project seems to have suddenly opened up. I had been wanting to introduce AI into this project for a while, and starting the integration today has given the whole application more life. It's still in its early days, and there are still some shortcomings, but it's exciting to see where it will go.
+
+
+### Day 28 — December 3, 2025
+
+**Today's progress:**
+- Finished integrating AI into the Quiz Generator.
+- Now users can create a quiz and let AI automatically generate questions.
+- The generated questions are added directly to the form, ready to edit or save.
+
+**Thoughts:**
+It was great to see this feature come to life today. No more manually writing out each quiz — just select AI mode, wait a moment, and your questions are ready. It's simple right now, but it feels like a big step forward.
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
