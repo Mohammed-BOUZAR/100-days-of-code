@@ -391,3 +391,13 @@ The project seems to have suddenly opened up. I had been wanting to introduce AI
 It was great to see this feature come to life today. No more manually writing out each quiz — just select AI mode, wait a moment, and your questions are ready. It's simple right now, but it feels like a big step forward.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 29 — December 6, 2025
+
+**Today's progress:**
+- I'm starting a new project: a Habit Tracker with Data Visualization.
+- Set up the project structure using Next.js and Tailwind CSS.
+
+**Thoughts:**
+I'm excited to begin this new journey! Building a Habit Tracker with data visualization will not only help me improve my own habits, but also provide valuable insights to users. I look forward to diving myself in the development process and creating something impactful.
