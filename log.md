@@ -401,3 +401,14 @@ It was great to see this feature come to life today. No more manually writing ou
 
 **Thoughts:**
 I'm excited to begin this new journey! Building a Habit Tracker with data visualization will not only help me improve my own habits, but also provide valuable insights to users. I look forward to diving myself in the development process and creating something impactful.
+
+
+### Day 30 — December 7, 2025
+
+**Today's Progress:**
+Create ERD diagram for the database and mapped out user flows.
+Spent some time planning and organizing the Habit Tracker project. Drawing diagrams and specifications helped me clarify the structure and flow before diving into development.
+
+**Thoughts:**
+I'm excited to begin this new journey! Building a Habit Tracker with data visualization will not only help me improve my own habits, but also provide valuable insights to users. I look forward to diving myself in the development process and creating something impactful.
+
