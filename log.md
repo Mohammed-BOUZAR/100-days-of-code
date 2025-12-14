@@ -459,3 +459,14 @@ The Habit Tracker now has an interface that you can log into, as well as an auth
 It's no longer just a UI, but a functional tool that does its job.
 
 
+### Day 35 — December 14, 2025
+
+**Today's Progress:**
+- Added filters (week/month) to the dashboard.
+- Enhanced habit cards with richer information.
+- Implemented a heatmap to visualize activities over the year.
+- Styled streaks for better user engagement.
+
+**Thoughts:**
+It's no longer just about what you've done, but understanding your patterns over time.
+
