@@ -470,3 +470,14 @@ It's no longer just a UI, but a functional tool that does its job.
 **Thoughts:**
 It's no longer just about what you've done, but understanding your patterns over time.
 
+
+### Day 36 — December 16, 2025
+
+**Today's Progress:**
+- Updated Navbar with profile dropdown menu.
+- Created full profile management page.
+- Secure email and password update (credentials only).
+- Added account deletion with confirmation.
+
+**Thoughts:**
+The quality of a tracker depends on how trustworthy its foundation is. Today, user control and security were enhanced.
