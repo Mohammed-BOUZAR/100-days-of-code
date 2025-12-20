@@ -493,3 +493,16 @@ The quality of a tracker depends on how trustworthy its foundation is. Today, us
 
 **Thoughts:**
 Today I improved the core experience. Giving users the ability to correct mistakes and choose their own theme makes Habit Tracker feel more complete and considerate.
+
+
+### Day 38 — December 20, 2025
+
+**Today's Progress:**
+- Refined web API structure.
+- Set up the Flutter environment for mobile development.
+- Initialized the mobile project.
+
+**Thoughts:**
+The architecture is taking shape. One backend (Next.js API), multiple frontends (web and mobile).
+
+
